@@ -207,12 +207,12 @@ namespace n$namespace
 			WindowVisible = true;
 
 			Console.WriteLine("");
-			Console.WriteLine("");echo " _     _______     _____    _  _____ _   _    _    _   _ ";
-			Console.WriteLine("");echo "| |   | ____\ \   / /_ _|  / \|_   _| | | |  / \  | \ | |";
-			Console.WriteLine("");echo "| |   |  _|  \ \ / / | |  / _ \ | | | |_| | / _ \ |  \| |";
-			Console.WriteLine("");echo "| |___| |___  \ V /  | | / ___ \| | |  _  |/ ___ \| |\  |";
-			Console.WriteLine("");echo "|_____|_____|  \_/  |___/_/   \_\_| |_| |_/_/   \_\_| \_|";
-			Console.WriteLine("");echo "|F|a|c|t|i|o|n| |A|u|t|o|c|l|i|c|k|e|r|";
+			Console.WriteLine(" _     _______     _____    _  _____ _   _    _    _   _ ");
+			Console.WriteLine("| |   | ____\ \   / /_ _|  / \|_   _| | | |  / \  | \ | |"); 
+			Console.WriteLine("| |   |  _|  \ \ / / | |  / _ \ | | | |_| | / _ \ |  \| |"); 
+			Console.WriteLine("| |___| |___  \ V /  | | / ___ \| | |  _  |/ ___ \| |\  |"); 
+			Console.WriteLine("|_____|_____|  \_/  |___/_/   \_\_| |_| |_/_/   \_\_| \_|"); 
+			Console.WriteLine("|F|a|c|t|i|o|n| |A|u|t|o|c|l|i|c|k|e|r|"); 
 			Console.WriteLine("");
 			Console.WriteLine("Keybinds:");
 			Console.WriteLine("  - Toggle Clicker: " + KeybindString[0]);
